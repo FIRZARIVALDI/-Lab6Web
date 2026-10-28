@@ -69,20 +69,35 @@ lab6_dom_event/
 
 ---
 
-## 🖼️ Screenshot Hasil Praktikum
+Screenshot Hasil Praktikum
 
-*(Silakan tambahkan screenshot tampilan halaman untuk setiap latihan di bawah ini)*
+Silakan letakkan file gambar screenshot Anda ke dalam folder img/ atau folder utama proyek ini, lalu sesuaikan nama filenya di bawah ini:
 
-| Latihan | Kondisi / Fitur | Screenshot |
-|---|---|---|
-| **Latihan 1 & 2** | Tampilan Awal & Setelah Tombol Diklik | `![Latihan 1 & 2](path/to/screenshot-latihan1-2.png)` |
-| **Latihan 3** | Toggle Class CSS (Highlight & Teks Besar) | `![Latihan 3](path/to/screenshot-latihan3.png)` |
-| **Latihan 4** | Real-time Character Counter | `![Latihan 4](path/to/screenshot-latihan4.png)` |
-| **Latihan 5** | Form Validasi Gagal (Input Kosong / Email Invalid) | `![Latihan 5 Error](path/to/screenshot-latihan5-error.png)` |
-| **Latihan 5** | Form Validasi Berhasil | `![Latihan 5 Sukses](path/to/screenshot-latihan5-success.png)` |
-| **Latihan 6** | To-Do List (Tambah & Tandai Selesai) | `![Latihan 6](path/to/screenshot-latihan6.png)` |
+1. Latihan 1 & 2: Tampilan Awal & Setelah Tombol Diklik
+<img width="558" height="305" alt="Screenshot 2026-10-28 103529" src="https://github.com/user-attachments/assets/7eb06821-785e-4251-9ab8-d4a2e904160e" />
+<img width="518" height="294" alt="Screenshot 2026-10-28 103537" src="https://github.com/user-attachments/assets/4879a485-280d-437a-98eb-8f17ab3b3a1e" />
 
----
+
+3. Latihan 3: Toggle Class CSS (Highlight & Teks Besar)
+<img width="481" height="119" alt="Screenshot 2026-10-28 103546" src="https://github.com/user-attachments/assets/0beeafa6-a2a5-42f2-b83f-b26bb31bb795" />
+<img width="576" height="151" alt="Screenshot 2026-10-28 103556" src="https://github.com/user-attachments/assets/df5b872e-2635-48c7-b1ef-c84b1da686ab" />
+
+4. Latihan 4: Real-time Character Counter
+<img width="434" height="106" alt="Screenshot 2026-10-28 103639" src="https://github.com/user-attachments/assets/b62b42c9-f15c-4558-af08-72228f330dd7" />
+<img width="428" height="114" alt="Screenshot 2026-10-28 103630" src="https://github.com/user-attachments/assets/8bd16347-ca17-484a-94e7-8ee70a2fe2ed" />
+
+5. Latihan 5: Form Validasi Gagal (Input Kosong / Email Invalid)
+<img width="425" height="187" alt="Screenshot 2026-10-28 185438" src="https://github.com/user-attachments/assets/445562b4-0637-4320-9d43-827a3e21fad0" />
+
+6. Latihan 5: Form Validasi Berhasil
+<img width="484" height="149" alt="Screenshot 2026-10-28 103735" src="https://github.com/user-attachments/assets/0511c436-ef1c-48ed-b3e1-b9344dd0066a" />
+<img width="472" height="173" alt="Screenshot 2026-10-28 103745" src="https://github.com/user-attachments/assets/9741e6f4-e293-4874-b9e1-b313c7c6bbab" />
+
+
+8. Latihan 6: To-Do List (Tambah & Tandai Selesai)
+<img width="478" height="204" alt="Screenshot 2026-10-28 103813" src="https://github.com/user-attachments/assets/4405fc32-8227-4425-a1d5-22d853fc1702" />
+<img width="485" height="212" alt="Screenshot 2026-10-28 103759" src="https://github.com/user-attachments/assets/fa15e960-e534-4e6e-b51a-491e446b5122" />
+
 
 ## ❓ Jawaban Pertanyaan Evaluasi
 
